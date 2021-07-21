@@ -5,7 +5,6 @@ Tutorial membuat vision camera untuk deteksi senyuman
 ``````
 pip install -r requirements.txt
 ``````
-<br />
 
 # HOW TO RUN
 ``````
